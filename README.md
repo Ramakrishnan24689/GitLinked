@@ -1,4 +1,4 @@
-# Git + Linked
+# Git :two_hearts: Linked 
 
 #PCF-Mgt-PeoplePicker
 A PCF which uses Mgt-Peoplepicker to allow search for all users or/and groups in an organization.
