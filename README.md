@@ -1,6 +1,6 @@
 # GitLinked 
 
-#PCF-Mgt-PeoplePicker
+# PCF-Mgt-PeoplePicker
 A PCF which uses Mgt-Peoplepicker to allow search for all users or/and groups in an organization.
 
 If you want a peoplepicker to search on the User(systemuser) table of Dataverse instead, refer [this solution](https://github.com/Ramakrishnan24689/OfficeUIFabricReactPeoplePicker).
